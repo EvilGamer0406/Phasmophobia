@@ -250,11 +250,12 @@
 }
 
 @media only screen and (max-width:430px){
+  
   .title{
     font-size: 60px !important;
   }
   .undertitle{
-    font-size: 10px !important;
+    font-size: 15px !important;
   }
 
   i{
