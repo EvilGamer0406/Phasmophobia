@@ -249,20 +249,7 @@
   }
 }
 
-@media only screen and (max-width:430px){
-  
-  .title{
-    font-size: 60px !important;
-  }
-  .undertitle{
-    font-size: 15px !important;
-  }
 
-  i{
-    font-size: 30px !important;
-  }
-
-}
 
 /* CSS class */
 
@@ -1148,4 +1135,19 @@ margin-bottom: 1rem;
 .footer_child > :last-child {
 margin-top: 1rem;
 }
+}
+
+@media only screen and (max-width:430px){
+  
+  .title{
+    font-size: 60px !important;
+  }
+  .undertitle{
+    font-size: 15px !important;
+  }
+
+  i{
+    font-size: 30px !important;
+  }
+
 }
