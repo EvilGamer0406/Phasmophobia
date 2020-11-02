@@ -249,6 +249,15 @@
   }
 }
 
+@media only screen and (max-width:548px){
+  .title{
+    font-size: 60px;
+  }
+  .undertitle{
+    font-size: 10px;
+  }
+}
+
 /* CSS class */
 
 html{
