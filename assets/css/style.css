@@ -249,7 +249,7 @@
   }
 }
 
-@media only screen and (max-width:548px){
+@media only screen and (max-width:428px){
   .title{
     font-size: 60px !important;
   }
