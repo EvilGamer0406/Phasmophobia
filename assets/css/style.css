@@ -778,7 +778,7 @@ h1{font-size:200%;}
 }
 
 /* 1092 BREAK POINT */
-@media only screen and (max-width:1092px){
+@media only screen and (max-width:640px){
 
   .title{
     font-size: 75px !important;
